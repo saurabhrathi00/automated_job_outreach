@@ -1,0 +1,2 @@
+# automated_job_outreach
+requests==2.31.0 python-dotenv==1.0.1 google-search-results==2.4.2
